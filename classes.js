@@ -1,4 +1,4 @@
-**
+/**
  * RippleEffect is a utility class for adding a ripple effect to a button.
  */
 export class RippleEffect {
